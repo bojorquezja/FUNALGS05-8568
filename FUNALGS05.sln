@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repeticionfor", "repeticion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repeticionwhile", "repeticionwhile\repeticionwhile.csproj", "{BBA1A6DE-1DF7-4852-B76A-A28B8B13204D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prob24", "Prob24\Prob24.csproj", "{374CFE8A-FCDF-4526-B114-638EB84D2053}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BBA1A6DE-1DF7-4852-B76A-A28B8B13204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBA1A6DE-1DF7-4852-B76A-A28B8B13204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBA1A6DE-1DF7-4852-B76A-A28B8B13204D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374CFE8A-FCDF-4526-B114-638EB84D2053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374CFE8A-FCDF-4526-B114-638EB84D2053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374CFE8A-FCDF-4526-B114-638EB84D2053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374CFE8A-FCDF-4526-B114-638EB84D2053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

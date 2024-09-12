@@ -13,5 +13,7 @@ while (re =="s") {
         cant = cant + 1;
     }
 }
-double prom = suma/cant;
-Console.WriteLine($"El promedio de {cant} edades es {prom}");
+if (suma > 0) {
+    double prom = suma / cant;
+    Console.WriteLine($"El promedio de {cant} edades es {prom}");
+}
